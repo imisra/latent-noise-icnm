@@ -1,0 +1,80 @@
+airplane : airplane, airplanes
+apple: apple, apples
+backpack: backpack, bag, bags
+banana: banana, bananas
+baseball bat: bat
+baseball glove: glove
+bear: bear, bears
+bed: bed, beds, bedroom
+bench: bench, benches
+bicycle: bicycle, bicycles, bike, bikes
+bird: bird, birds
+boat: boat, boats, ship
+book: book, books
+bottle: bottle, bottles
+bowl: bowl, bowls
+broccoli: broccoli
+bus: bus, buses
+cake: cake, cakes
+car: car, cars
+carrot: carrot, carrots
+cat: cat, cats
+cell phone: cellphone
+chair: chair, chairs
+clock: clock, clocks
+couch: couch, couches, sofa
+cow: cow, cows
+cup: cup, cups
+dining table: table
+dog: dog, dogs
+donut: donut, donuts
+elephant: elephant, elephants
+fire hydrant: hydrant
+fork: fork
+frisbee: frisbee
+giraffe: giraffe, giraffes
+hair drier: 
+handbag: 
+horse: horse, horses
+hot dog: hotdog
+keyboard: keyboard
+kite: kite, kites
+knife: knife
+laptop: laptop, laptops
+microwave: microwave
+motorcycle: motorcycle, motorcycles, bike, bikes
+mouse: mouse
+orange: oranges
+oven: 
+parking meter: 
+person: man, people, woman, person, adult, adults, pedestrians, people, passenger, passengers, someone, children, baby, crowd, player, skateboarder, skier, surfer
+pizza: pizza, pizzas
+potted plant: plant
+refrigerator: refrigerator, fridge
+remote: 
+sandwich: sandwich, sandwiches
+scissors: scissors
+sheep: sheep
+sink: sink, sinks
+skateboard: skateboard, skateboards
+skis: skis, ski
+snowboard: snowboard, snowboarder
+spoon: spoon
+sports ball: ball
+stop sign: stop
+suitcase: suitcase, suitcases
+surfboard: surfboard, surfboards
+teddy bear: bear
+tennis racket: racket, racquet, rackets
+tie: tie, ties
+toaster: 
+toilet: toilet, toilets
+toothbrush: toothbrush
+traffic light: 
+train: train, trains
+truck: truck, trucks
+tv: tv
+umbrella: umbrella, umbrellas
+vase: vase, vases
+wine glass: glass
+zebra: zebra, zebras

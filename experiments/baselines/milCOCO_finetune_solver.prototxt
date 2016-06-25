@@ -1,0 +1,11 @@
+train_net: "experiments/baselines/milCOCO_finetune.prototxt"
+base_lr: 0.000015625
+lr_policy: "step"
+gamma: 0.1
+stepsize: 80000
+display: 20 
+max_iter: 320000
+momentum: 0.99
+weight_decay: 0.0005
+snapshot: 80000
+snapshot_prefix: "experiments/baselines/milCOCO_snapshot"
