@@ -1,0 +1,3 @@
+[submodule "caffe-icnm"]
+	path = caffe-icnm
+	url = https://github.com/imisra/caffe-icnm.git
