@@ -8,7 +8,7 @@ You can download the paper [here](http://arxiv.org/abs/1512.06974).
 
 ### Why use it?
 This codebase can help you replicate the results from the paper and train new models.
-In cases where your image labels are noisy, our method provides orthogonal gains over existing techniques. It may help boost performance of your baseline classification system.
+In cases where your image labels are noisy, our method provides *orthogonal gains over existing techniques*. It may help boost performance of your baseline classification system.
 This paper introduces a way to learn visually correct classifiers from noisy labels.
 It is an Image Conditioned Noise Model which can estimate label noise *without clean labels*.
 
@@ -121,6 +121,7 @@ This should give you the following files
 - `coco1k_coco-valid2_label_counts.h5`: Ground truth for 1000 visual concepts
 - `coco_instancesGT_eval_*` : COCO detection ground truth converted to classification ground truth
 - `labels_captions_coco_vocabS1k_train.h5` and `ids_captions_coco_vocabS1k_train.txt` : Label files used to *train* models
+- `captions_*.json`: COCO captions ground-truth files for `valid2` split. Place them under the `annotations` directory of your COCO dataset.
 
 ### Usage
 Once you have models and data downloaded, you can run the `main_test.py` file. This should reproduce the results from the paper by first classifying 20k images from the `valid2` set and then evaluating the result. The file has documentation to understand the various types of evaluation and baseline methods. Since, this process is time consuming, we also provide the pre-computed detections and evaluations in the [Extra downloads](#extra-downloads) section for the baseline and our method.
